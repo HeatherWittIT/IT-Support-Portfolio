@@ -1,38 +1,57 @@
 # Heather Witt
 
-## IT Support Technician | Desktop Support | Windows Server | Active Directory | Microsoft 365
+# IT Support Technician | Desktop Support | Windows Server | Active Directory | Microsoft 365
 
-Welcome to my professional IT portfolio.
+## Welcome
 
-I recently graduated **Summa Cum Laude** from **Southern New Hampshire University** with a **Bachelor of Science in Cybersecurity**, earning a **4.0 GPA** while completing an accelerated degree in just over **2½ years** and working full time.
+Thank you for visiting my professional IT portfolio.
 
-This portfolio showcases enterprise-style IT and cybersecurity laboratory projects completed throughout my degree program. These projects demonstrate hands-on experience with Windows Server administration, Active Directory, Microsoft 365, networking, virtualization, Linux, vulnerability management, security hardening, troubleshooting, and technical documentation.
+I recently graduated **Summa Cum Laude** from **Southern New Hampshire University** with a **Bachelor of Science in Cybersecurity**, earning a **4.0 GPA** while completing an accelerated bachelor's degree in just over **2½ years** while working full time.
+
+This portfolio showcases enterprise-style IT and cybersecurity laboratory projects completed throughout my degree program. Each project demonstrates practical experience with Windows Server administration, Active Directory, Microsoft 365, networking, virtualization, Linux, vulnerability management, desktop support, troubleshooting, security hardening, and technical documentation.
 
 ---
 
 # Technical Skills
 
-• Windows 10
-• Windows 11
-• Windows Server 2022
-• Active Directory
-• Group Policy
-• Microsoft 365
-• VMware
-• VirtualBox
-• Ubuntu Linux
-• Kali Linux
-• OpenVAS
-• Cisco Packet Tracer
-• TCP/IP
-• DNS
-• DHCP
-• VLANs
-• Windows Security Hardening
-• Vulnerability Management
-• Technical Documentation
-• Desktop Support
-• Customer Service
+### Operating Systems
+
+- Windows 10
+- Windows 11
+- Windows Server 2022
+- Ubuntu Linux
+- Kali Linux
+
+### Enterprise Technologies
+
+- Active Directory
+- Group Policy
+- Microsoft 365
+- User Account Administration
+- Password Administration
+
+### Networking
+
+- TCP/IP
+- DNS
+- DHCP
+- VLANs
+- Routing
+- Switching
+- Cisco Packet Tracer
+
+### Security
+
+- OpenVAS
+- Vulnerability Management
+- Windows Security Hardening
+- CVSS Risk Analysis
+- Security Documentation
+
+### Virtualization
+
+- VMware
+- VirtualBox
 
 ---
 
@@ -40,48 +59,50 @@ This portfolio showcases enterprise-style IT and cybersecurity laboratory projec
 
 ## Enterprise Vulnerability Management & Security Analysis
 
-Enterprise vulnerability assessment using OpenVAS including vulnerability identification, CVSS prioritization, remediation planning, Windows Server security hardening, and validation.
+Enterprise vulnerability assessment using OpenVAS including vulnerability identification, CVSS prioritization, remediation planning, Windows Server security hardening, validation, and documentation.
 
 ---
 
-## Windows Server Deployment & Active Directory Administration
+## Enterprise Windows Server Deployment & Active Directory Administration
 
-Windows Server installation, Active Directory configuration, Group Policy administration, user management, organizational units, and enterprise security configuration.
+Windows Server deployment, Active Directory configuration, Group Policy administration, user management, organizational units, authentication, and enterprise security configuration.
 
 ---
 
 ## Network Infrastructure Support
 
-Enterprise networking using Cisco Packet Tracer including VLANs, DHCP, DNS, routing, switching, and troubleshooting.
+Enterprise networking using Cisco Packet Tracer including routing, switching, VLANs, DHCP, DNS, TCP/IP configuration, and structured troubleshooting.
 
 ---
 
 ## Linux System Administration
 
-Ubuntu and Kali Linux administration including user management, permissions, command-line operations, and Linux security.
+Ubuntu and Kali Linux administration including user management, permissions, command-line operations, and Linux security concepts.
 
 ---
 
-## Leadership
+# Leadership
 
-### National Society of Leadership and Success
+## National Society of Leadership and Success
 
-Created and led a Success Networking Team focused on collaboration, accountability, leadership, and professional development.
+Created and led a Success Networking Team by organizing meetings, facilitating discussions, promoting collaboration, and helping members remain accountable toward achieving personal and professional goals.
 
 ---
 
-## Education
+# Education
 
-Southern New Hampshire University
+**Southern New Hampshire University**
 
 Bachelor of Science in Cybersecurity
 
-• Summa Cum Laude
-
-• 4.0 GPA
-
-• Accelerated degree completed in just over 2½ years while working full time
+- Summa Cum Laude
+- 4.0 GPA
+- Accelerated bachelor's degree completed in just over 2½ years while working full time
 
 ---
+
+# Career Objective
+
+I am actively seeking an **Entry-Level IT Support, Desktop Support, or Service Desk** opportunity where I can contribute to an IT team, continue learning, develop hands-on enterprise experience, and grow into infrastructure and cybersecurity roles.
 
 Thank you for visiting my portfolio.
