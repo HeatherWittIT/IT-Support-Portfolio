@@ -1,6 +1,8 @@
-# Heather Witt
+# 👋 Heather Witt
 
 ## IT Support Technician | Desktop Support | Windows Server | Active Directory | Microsoft 365
+
+---
 
 ## Welcome
 
@@ -8,9 +10,11 @@ Welcome to my professional IT portfolio.
 
 I recently graduated **Summa Cum Laude** from **Southern New Hampshire University** with a **Bachelor of Science in Cybersecurity**, earning a **4.0 GPA** while completing an accelerated bachelor's degree in just over **2½ years** while working full time.
 
-This portfolio showcases hands-on enterprise IT and cybersecurity laboratory projects completed throughout my Bachelor of Science in Cybersecurity program. These projects demonstrate practical experience with Windows Server administration, Active Directory, Microsoft 365, networking, Linux, virtualization, desktop support, security hardening, vulnerability management, technical troubleshooting, and professional technical documentation within enterprise-style laboratory environments.
+This portfolio highlights the hands-on enterprise IT and cybersecurity laboratory projects I completed throughout my degree program. Each project demonstrates my approach to deploying enterprise technologies, troubleshooting technical issues, strengthening system security, documenting solutions, and applying IT best practices within simulated business environments.
 
-I am actively seeking an **Entry-Level IT Support, Desktop Support, or Service Desk** opportunity where I can deliver outstanding end-user support, continue expanding my technical expertise, gain hands-on enterprise experience, and contribute to an organization's success while growing into enterprise infrastructure and cybersecurity roles.
+My technical experience includes Windows Server administration, Active Directory, Microsoft 365, networking, virtualization, Linux administration, vulnerability management, desktop support concepts, security hardening, and technical documentation. Every project reflects my commitment to continuous learning, attention to detail, and developing practical skills that transfer directly to enterprise IT environments.
+
+I am actively seeking an **Entry-Level IT Support, Desktop Support, or Service Desk** opportunity where I can provide outstanding end-user support, continue expanding my technical expertise, gain real-world enterprise experience, and contribute to an organization's success while growing into Systems Administration and Cybersecurity.
 
 ---
 
@@ -48,15 +52,16 @@ I am actively seeking an **Entry-Level IT Support, Desktop Support, or Service D
 ## Security
 
 - OpenVAS
+- Vulnerability Assessment
 - Vulnerability Management
 - Windows Security Hardening
 - CVSS Risk Analysis
-- Security Documentation
 - Incident Response Fundamentals
+- Security Documentation
 
 ## Virtualization
 
-- VMware
+- VMware Workstation
 - VirtualBox
 
 ---
@@ -65,57 +70,58 @@ I am actively seeking an **Entry-Level IT Support, Desktop Support, or Service D
 
 ## Enterprise Vulnerability Management & Security Analysis
 
-Performed enterprise-style vulnerability assessments using OpenVAS to identify, prioritize, remediate, and validate security vulnerabilities within Windows Server environments.
+Performed enterprise-style vulnerability assessments using OpenVAS to identify, prioritize, remediate, and validate Windows Server security vulnerabilities while documenting findings and remediation activities.
 
-**Key Skills**
+**Technologies Used**
+
 - OpenVAS
-- CVSS Risk Analysis
-- Windows Server
-- Security Hardening
+- Windows Server 2022
 - Group Policy
-- Technical Documentation
+- Windows Command Line
+- CVSS Risk Scoring
 
 ---
 
 ## Enterprise Windows Server Deployment & Active Directory Administration
 
-Installed and configured Windows Server 2022 while creating and administering Active Directory users, groups, organizational units, and Group Policy Objects within a simulated enterprise environment.
+Installed and configured Windows Server 2022 while deploying Active Directory, creating users and organizational units, applying Group Policy Objects, and administering authentication and access controls within an enterprise-style laboratory environment.
 
-**Key Skills**
+**Technologies Used**
+
 - Windows Server 2022
 - Active Directory
 - Group Policy
-- User Administration
-- Authentication
-- Enterprise Administration
+- Windows Administration
 
 ---
 
 ## Network Infrastructure Support
 
-Configured enterprise network environments using Cisco Packet Tracer, including routing, switching, VLANs, DHCP, DNS, and structured network troubleshooting.
+Configured enterprise network environments using Cisco Packet Tracer including routing, switching, VLANs, DHCP, DNS, TCP/IP, and structured network troubleshooting.
 
-**Key Skills**
+**Technologies Used**
+
 - Cisco Packet Tracer
 - TCP/IP
-- DNS
 - DHCP
+- DNS
 - VLANs
-- Routing & Switching
+- Routing
+- Switching
 
 ---
 
 ## Linux System Administration
 
-Performed Linux administration tasks using Ubuntu and Kali Linux, including user management, file permissions, command-line operations, and basic system security.
+Performed Linux administration tasks using Ubuntu and Kali Linux including user management, file permissions, command-line operations, and basic Linux security administration.
 
-**Key Skills**
-- Ubuntu
+**Technologies Used**
+
+- Ubuntu Linux
 - Kali Linux
-- Linux Administration
+- Linux Command Line
 - User Management
-- Permissions
-- Command Line
+- File Permissions
 
 ---
 
@@ -125,15 +131,15 @@ Performed Linux administration tasks using Ubuntu and Kali Linux, including user
 
 Selected for membership based on academic achievement and leadership potential.
 
-Created and led a **Success Networking Team**, organizing meetings, facilitating discussions, promoting collaboration, and helping members remain accountable toward achieving their academic and professional goals.
+Created and led a **Success Networking Team**, organizing meetings, facilitating discussions, promoting collaboration, encouraging accountability, and helping members achieve their academic and professional goals.
 
-Developed leadership, communication, teamwork, organization, and accountability skills through peer mentoring and group leadership.
+Developed leadership, communication, teamwork, organization, and problem-solving skills through peer mentoring and group leadership.
 
 ---
 
 # Education
 
-**Southern New Hampshire University**
+## Southern New Hampshire University
 
 **Bachelor of Science in Cybersecurity**
 
@@ -145,6 +151,6 @@ Developed leadership, communication, teamwork, organization, and accountability 
 
 # Career Objective
 
-My goal is to begin my career in **IT Support** where I can continue learning, provide exceptional customer service, solve technical problems, and build the enterprise experience needed to grow into Systems Administration and Cybersecurity.
+My goal is to begin my career in **IT Support** where I can apply the technical foundation I developed through my cybersecurity education, continue learning from experienced IT professionals, deliver exceptional customer service, solve technical problems, and build the enterprise experience needed to grow into Systems Administration and Cybersecurity.
 
-Thank you for taking the time to review my portfolio. I welcome the opportunity to discuss my technical skills, projects, and passion for information technology.
+Thank you for taking the time to visit my portfolio. I welcome the opportunity to discuss my technical projects, leadership experience, and passion for information technology.
