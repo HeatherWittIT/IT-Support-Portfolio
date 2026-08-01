@@ -1,4 +1,4 @@
-# 👋 Heather Witt
+#  Heather Witt
 
 ## IT Support Technician | Desktop Support | Windows Server | Active Directory | Microsoft 365
 
